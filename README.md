@@ -15,4 +15,4 @@ At here we are trying to to train the weight and bias of MLP using the Genetic A
 
 ### 2. Find the start board with genetic algorithm
 
-**CURRENT STATUS : Not Implemented but coming soon!
+**CURRENT STATUS : Not Implemented but coming soon!**
